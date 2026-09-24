@@ -26,7 +26,7 @@ Payload usado no campo de login:
 Qualquer combinação de caracteres funciona no campo de senha, já que o
 payload comenta o restante da query antes da checagem de senha ser avaliada.
 
-## Prova de impacto
+## Resultado
 
 Somos autenticados como `admin@juice-sh.op`, presumivelmente o primeiro
 usuário da tabela SQL, ou seja, bypass completo da autenticação;

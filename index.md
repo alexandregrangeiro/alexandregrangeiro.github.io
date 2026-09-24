@@ -4,8 +4,8 @@ Registro de vulnerabilidades exploradas e máquinas resolvidas, como parte da mi
 
 ## 🧃 Juice Shop
 
-- [SQL Injection no loigi](writeups/juice-shop/sqlinjection.md)
-
+- [SQL Injection no Login](writeups/juice-shop/sqlinjection.md)
+- [Avaliação de Zero Estrelas](writeups/juice-shop/zerostars.md)
 ## 🚩 CTF
 
 - N/A
