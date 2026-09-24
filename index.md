@@ -4,16 +4,16 @@ Registro de vulnerabilidades exploradas e máquinas resolvidas, como parte da mi
 
 ## 🧃 Juice Shop
 
-- *(adicione aqui o link pro primeiro write-up, ex: [XSS no campo de busca](writeups/juice-shop/xss-search-field.md))*
+- [SQL Injection no loigi](writeups/juice-shop/sqlinjection.md)
 
 ## 🚩 CTF
 
-- *(seus write-ups de CTF entram aqui)*
+- N/A
 
 ## 🖥️ Machines
 
-- *(HTB, TryHackMe, etc.)*
+- N/A
 
 ---
 
-[Sobre este site](README.md) · [GitHub](https://github.com/alexandregrangeiro)
+[GitHub](https://github.com/alexandregrangeiro)
