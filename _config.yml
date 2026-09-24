@@ -1,0 +1,11 @@
+title: Alexandre Grangeiro — Write-ups
+description: Write-ups de CTF, máquinas e prática de AppSec/pentest
+theme: jekyll-theme-minimal
+
+# Menu de navegação simples
+show_downloads: false
+
+# Não processa a pasta writeups como posts de blog,
+# ela é referenciada manualmente no index
+exclude:
+  - README.md
